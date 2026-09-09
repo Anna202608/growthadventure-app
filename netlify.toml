@@ -1,0 +1,34 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[functions]
+  directory = "netlify/functions"
+
+# Same-origin proxies so world explorer works like Vite / Cloudflare Pages Functions.
+[[redirects]]
+  from = "/api/world-explore"
+  to = "/.netlify/functions/world-explore"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/baidu/*"
+  to = "https://aip.baidubce.com/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/trans/*"
+  to = "https://fanyi-api.baidu.com/:splat"
+  status = 200
+  force = true
+
+# SPA fallback for React Router. Keep this last.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

@@ -1,0 +1,26 @@
+{
+  "kBand": 2,
+  "label": { "zh": "初级 2k", "en": "Elementary 2k" },
+  "words": [
+    { "en": "garden", "zh": "花园", "emoji": "🏡", "family": "garden" },
+    { "en": "bridge", "zh": "桥", "emoji": "🌉", "family": "bridge" },
+    { "en": "castle", "zh": "城堡", "emoji": "🏰", "family": "castle" },
+    { "en": "forest", "zh": "森林", "emoji": "🌲", "family": "forest" },
+    { "en": "island", "zh": "岛屿", "emoji": "🏝️", "family": "island" },
+    { "en": "market", "zh": "市场", "emoji": "🛒", "family": "market" },
+    { "en": "pocket", "zh": "口袋", "emoji": "👖", "family": "pocket" },
+    { "en": "rabbit", "zh": "兔子", "emoji": "🐰", "family": "rabbit" },
+    { "en": "shadow", "zh": "影子", "emoji": "🌑", "family": "shadow" },
+    { "en": "ticket", "zh": "票", "emoji": "🎫", "family": "ticket" },
+    { "en": "village", "zh": "村庄", "emoji": "🏘️", "family": "village" },
+    { "en": "window", "zh": "窗户", "emoji": "🪟", "family": "window" },
+    { "en": "yellow", "zh": "黄色", "emoji": "🟡", "family": "yellow" },
+    { "en": "circle", "zh": "圆形", "emoji": "⭕", "family": "circle" },
+    { "en": "engine", "zh": "引擎", "emoji": "🚂", "family": "engine" },
+    { "en": "guitar", "zh": "吉他", "emoji": "🎸", "family": "guitar" },
+    { "en": "helmet", "zh": "头盔", "emoji": "⛑️", "family": "helmet" },
+    { "en": "ladder", "zh": "梯子", "emoji": "🪜", "family": "ladder" },
+    { "en": "magnet", "zh": "磁铁", "emoji": "🧲", "family": "magnet" },
+    { "en": "pillow", "zh": "枕头", "emoji": "🛏️", "family": "pillow" }
+  ]
+}

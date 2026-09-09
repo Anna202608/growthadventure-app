@@ -1,0 +1,154 @@
+{
+  "books": [
+    {
+      "id": "my-home",
+      "series": {
+        "zh": "语言精灵的魔法词典",
+        "en": "The Language Sprite's Magic Dictionary"
+      },
+      "title": { "zh": "我的家", "en": "My Home" },
+      "coverEmoji": "🏡",
+      "spriteEmoji": "🧚",
+      "pagePoints": 5,
+      "badge": {
+        "id": "little-reader",
+        "emoji": "📖",
+        "name": { "zh": "小小阅读家", "en": "Little Reader" }
+      },
+      "pages": [
+        {
+          "id": "p1",
+          "scene": "house",
+          "bg": "from-rose-200 via-amber-100 to-orange-100",
+          "emoji": "🏠",
+          "textZh": "叮铃铃！语言精灵打开魔法词典。第一页是我的家。家是温暖的地方。",
+          "textEn": "Ting-a-ling! The language sprite opens the magic dictionary. Page one is my home. Home is a warm place.",
+          "words": [
+            { "zh": "家", "en": "home", "emoji": "🏠" },
+            { "zh": "温暖", "en": "warm", "emoji": "☀️" }
+          ],
+          "quiz": {
+            "promptZh": "哪一个是 home（家）？",
+            "promptEn": "Which one means home?",
+            "answer": "home",
+            "choices": [
+              { "id": "home", "zh": "家", "en": "home", "emoji": "🏠" },
+              { "id": "car", "zh": "汽车", "en": "car", "emoji": "🚗" },
+              { "id": "star", "zh": "星星", "en": "star", "emoji": "⭐" }
+            ]
+          }
+        },
+        {
+          "id": "p2",
+          "scene": "living",
+          "bg": "from-sky-200 via-cyan-100 to-teal-100",
+          "emoji": "🛋️",
+          "textZh": "客厅很大。沙发软软的，我们坐在一起讲故事。",
+          "textEn": "The living room is big. The sofa is soft. We sit together and tell stories.",
+          "words": [
+            { "zh": "客厅", "en": "living room", "emoji": "🛋️" },
+            { "zh": "沙发", "en": "sofa", "emoji": "🪑" }
+          ],
+          "quiz": {
+            "promptZh": "哪一个是 living room（客厅）？",
+            "promptEn": "Which one is the living room?",
+            "answer": "living room",
+            "choices": [
+              { "id": "living room", "zh": "客厅", "en": "living room", "emoji": "🛋️" },
+              { "id": "kitchen", "zh": "厨房", "en": "kitchen", "emoji": "🍳" },
+              { "id": "garden", "zh": "花园", "en": "garden", "emoji": "🌻" }
+            ]
+          }
+        },
+        {
+          "id": "p3",
+          "scene": "kitchen",
+          "bg": "from-yellow-200 via-lime-100 to-orange-100",
+          "emoji": "🍳",
+          "textZh": "厨房香香的。妈妈切苹果，爸爸炒菜。红红的苹果真好吃。",
+          "textEn": "The kitchen smells nice. Mom cuts an apple. Dad cooks. The red apple is yummy.",
+          "words": [
+            { "zh": "厨房", "en": "kitchen", "emoji": "🍳" },
+            { "zh": "苹果", "en": "apple", "emoji": "🍎" }
+          ],
+          "quiz": {
+            "promptZh": "哪一个是 apple（苹果）？",
+            "promptEn": "Which one is an apple?",
+            "answer": "apple",
+            "choices": [
+              { "id": "apple", "zh": "苹果", "en": "apple", "emoji": "🍎" },
+              { "id": "ball", "zh": "球", "en": "ball", "emoji": "⚽" },
+              { "id": "fish", "zh": "鱼", "en": "fish", "emoji": "🐟" }
+            ]
+          }
+        },
+        {
+          "id": "p4",
+          "scene": "bedroom",
+          "bg": "from-violet-200 via-fuchsia-100 to-pink-100",
+          "emoji": "🛏️",
+          "textZh": "卧室静悄悄。小床像一朵云，枕头软软的。晚安，房间。",
+          "textEn": "The bedroom is quiet. The little bed is like a cloud. The pillow is soft. Good night, room.",
+          "words": [
+            { "zh": "卧室", "en": "bedroom", "emoji": "🛏️" },
+            { "zh": "床", "en": "bed", "emoji": "🛌" }
+          ],
+          "quiz": {
+            "promptZh": "哪一个是 bedroom（卧室）？",
+            "promptEn": "Which one is the bedroom?",
+            "answer": "bedroom",
+            "choices": [
+              { "id": "bedroom", "zh": "卧室", "en": "bedroom", "emoji": "🛏️" },
+              { "id": "school", "zh": "学校", "en": "school", "emoji": "🏫" },
+              { "id": "shop", "zh": "商店", "en": "shop", "emoji": "🏪" }
+            ]
+          }
+        },
+        {
+          "id": "p5",
+          "scene": "bath",
+          "bg": "from-cyan-200 via-sky-100 to-blue-100",
+          "emoji": "🛁",
+          "textZh": "浴室里有泡泡。洗手、刷牙，水花溅起来，亮晶晶。",
+          "textEn": "There are bubbles in the bathroom. Wash hands, brush teeth. The water sparkles.",
+          "words": [
+            { "zh": "浴室", "en": "bathroom", "emoji": "🛁" },
+            { "zh": "洗手", "en": "wash", "emoji": "🧼" }
+          ],
+          "quiz": {
+            "promptZh": "哪一个是 bathroom（浴室）？",
+            "promptEn": "Which one is the bathroom?",
+            "answer": "bathroom",
+            "choices": [
+              { "id": "bathroom", "zh": "浴室", "en": "bathroom", "emoji": "🛁" },
+              { "id": "park", "zh": "公园", "en": "park", "emoji": "🏞️" },
+              { "id": "bus", "zh": "公交车", "en": "bus", "emoji": "🚌" }
+            ]
+          }
+        },
+        {
+          "id": "p6",
+          "scene": "family",
+          "bg": "from-orange-200 via-rose-100 to-amber-100",
+          "emoji": "👨‍👩‍👧‍👦",
+          "textZh": "全家人在一起。客厅、厨房、卧室、浴室，都是爱的角落。魔法词典合上啦！",
+          "textEn": "The whole family is together. Living room, kitchen, bedroom, bathroom — all corners of love. The magic dictionary closes!",
+          "words": [
+            { "zh": "家人", "en": "family", "emoji": "👨‍👩‍👧‍👦" },
+            { "zh": "爱", "en": "love", "emoji": "💛" }
+          ],
+          "quiz": {
+            "promptZh": "哪一个是 family（家人）？",
+            "promptEn": "Which one means family?",
+            "answer": "family",
+            "choices": [
+              { "id": "family", "zh": "家人", "en": "family", "emoji": "👨‍👩‍👧‍👦" },
+              { "id": "robot", "zh": "机器人", "en": "robot", "emoji": "🤖" },
+              { "id": "moon", "zh": "月亮", "en": "moon", "emoji": "🌙" }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

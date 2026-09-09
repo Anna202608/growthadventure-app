@@ -1,0 +1,8 @@
+{
+  "name": "成长大冒险",
+  "packageId": "com.yourname.growthadventure",
+  "version": "1.0.0",
+  "entry": "dist/index.html",
+  "icon": "dist/favicon.ico",
+  "orientation": "portrait"
+}

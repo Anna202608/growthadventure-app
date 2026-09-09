@@ -1,0 +1,8 @@
+{
+  "source": "starter-kid-bands",
+  "attribution": "Replace band-*.json with converted BNC/COCA headwords from Paul Nation (Victoria University of Wellington), CC BY-SA 4.0. See scripts/convert-bnc-coca.mjs.",
+  "bands": 3,
+  "maxBand": 25,
+  "unlockHits": 8,
+  "note": "These starter files are kid-game nouns/verbs with Chinese glosses, NOT the official 1k-25k lists."
+}

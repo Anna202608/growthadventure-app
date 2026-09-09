@@ -1,0 +1,26 @@
+{
+  "kBand": 3,
+  "label": { "zh": "初级 3k", "en": "Pre-int 3k" },
+  "words": [
+    { "en": "ancient", "zh": "古老的", "emoji": "🏛️", "family": "ancient" },
+    { "en": "balance", "zh": "平衡", "emoji": "⚖️", "family": "balance" },
+    { "en": "climate", "zh": "气候", "emoji": "🌡️", "family": "climate" },
+    { "en": "diamond", "zh": "钻石", "emoji": "💎", "family": "diamond" },
+    { "en": "echo", "zh": "回声", "emoji": "📢", "family": "echo" },
+    { "en": "festival", "zh": "节日", "emoji": "🎉", "family": "festival" },
+    { "en": "gravity", "zh": "重力", "emoji": "🪐", "family": "gravity" },
+    { "en": "horizon", "zh": "地平线", "emoji": "🌅", "family": "horizon" },
+    { "en": "insect", "zh": "昆虫", "emoji": "🐛", "family": "insect" },
+    { "en": "jungle", "zh": "丛林", "emoji": "🌴", "family": "jungle" },
+    { "en": "kitchen", "zh": "厨房", "emoji": "🍳", "family": "kitchen" },
+    { "en": "library", "zh": "图书馆", "emoji": "📚", "family": "library" },
+    { "en": "museum", "zh": "博物馆", "emoji": "🏛️", "family": "museum" },
+    { "en": "oxygen", "zh": "氧气", "emoji": "💨", "family": "oxygen" },
+    { "en": "planet", "zh": "行星", "emoji": "🪐", "family": "planet" },
+    { "en": "quartz", "zh": "石英", "emoji": "🪨", "family": "quartz" },
+    { "en": "rocket", "zh": "火箭", "emoji": "🚀", "family": "rocket" },
+    { "en": "stadium", "zh": "体育场", "emoji": "🏟️", "family": "stadium" },
+    { "en": "thunder", "zh": "雷", "emoji": "⛈️", "family": "thunder" },
+    { "en": "volcano", "zh": "火山", "emoji": "🌋", "family": "volcano" }
+  ]
+}

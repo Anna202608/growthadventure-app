@@ -1,0 +1,13 @@
+{
+  "name": "growthadventure-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build && nitron build",
+    "dev": "nitron dev"
+  },
+  "dependencies": {
+    "nitron": "latest"
+  }
+}
